@@ -32,7 +32,6 @@ class App extends Component {
     this.setState({
       shoppingCart: newShoppingCart
     })
-    console.log(this.state.shoppingCart);
   }
 
   render() {
